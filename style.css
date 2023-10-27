@@ -1,0 +1,29 @@
+
+   body {
+    text-align: center; background-color: rgb(42, 52, 77); color: white;
+   }
+   head {
+        background-color: midnightblue;
+    }
+    
+    h1{
+        text-align: center; font-style: 30 px;
+    }
+    p {
+        color: white; 
+    }
+    footer{
+        text-align: left; color: white;
+    }
+    a{
+        color: white;
+    }
+     nav{
+        text-align: left;
+     }
+header {
+    text-align: center; color: white;
+ }
+*body{
+    text-size-adjust: 20px;
+}
