@@ -1,0 +1,32 @@
+h1{
+    background-color: rgb(42, 52, 77)
+    ;
+    color: white;
+    text-align: center;
+    text-decoration-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+    background-color: rgb(42, 52, 77);
+    color: white;
+}
+form div input{
+   width: 200px;
+   height: 20px;
+}
+form div select{
+    width: 250px;
+    height: 20px;
+}
+
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+footer a{
+    color: white
+    ;
+}
